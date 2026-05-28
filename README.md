@@ -57,9 +57,6 @@ Using Power BI, the analysis turns raw records into clear decision-making views 
   </tr>
   <tr>
     <td><img src="Assets/victims_profile.jpg" alt="Victims Profile" width="100%"/></td>
-    <td>
-      <img src="Assets/your-next-dashboard-image.jpg" alt="Add your next screenshot" width="100%"/>
-    </td>
   </tr>
 </table>
 
