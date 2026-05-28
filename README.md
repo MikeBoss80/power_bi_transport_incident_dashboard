@@ -53,14 +53,13 @@ Using Power BI, the analysis turns raw records into clear decision-making views 
   </tr>
   <tr>
     <td align="center"><b>Victim Profile</b></td>
-    <td align="center"><b>📌 Space for new visuals</b></td>
+    <td align="center"><b> Space for new visuals</b></td>
   </tr>
   <tr>
     <td><img src="Assets/victims_profile.jpg" alt="Victims Profile" width="100%"/></td>
   </tr>
 </table>
 
-> Tip: agrega nuevas capturas en `Assets/` y reemplaza `your-next-dashboard-image.jpg`.
 
 ---
 
